@@ -16,3 +16,47 @@ INFO 2021-04-18 17:33:59,944 autoreload 578 Watching for file changes with StatR
 INFO 2021-04-18 17:34:31,000 autoreload 578 Watching for file changes with StatReloader
 INFO 2021-04-18 17:36:35,269 urls 25 info
 INFO 2021-04-18 17:36:35,275 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2021-04-18 17:52:43,908 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:54:02,458 basehttp 154 "GET /static/index.html HTTP/1.1" 200 12002
+INFO 2021-04-18 17:54:02,483 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-04-18 17:54:02,494 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-04-18 17:54:02,497 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-04-18 17:54:02,498 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-04-18 17:54:02,500 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-04-18 17:54:02,502 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-04-18 17:54:02,502 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-04-18 17:54:02,522 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-04-18 17:54:02,529 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-04-18 17:54:02,534 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-04-18 17:54:02,540 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-04-18 17:54:02,547 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2021-04-18 17:59:50,409 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2021-04-18 17:59:54,866 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 18:01:46,245 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2021-04-18 18:01:49,682 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-04-18 18:20:06,220 log 222 Not Found: /register
+WARNING 2021-04-18 18:20:06,221 basehttp 154 "GET /register HTTP/1.1" 404 2061
+INFO 2021-04-18 18:26:22,723 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\blog\urls.py changed, reloading.
+INFO 2021-04-18 18:26:26,607 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 18:35:41,196 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 18:38:18,269 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 18:38:26,243 basehttp 154 "GET /register HTTP/1.1" 301 0
+ERROR 2021-04-18 18:38:26,363 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 18:39:22,250 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+INFO 2021-04-18 18:45:12,662 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2021-04-18 18:45:15,667 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 18:45:31,756 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 18:45:58,800 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-04-18 18:46:12,089 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+INFO 2021-04-18 18:48:34,984 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-04-18 18:49:00,033 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+WARNING 2021-04-18 18:49:06,988 log 222 Not Found: /
+WARNING 2021-04-18 18:49:06,989 basehttp 154 "GET / HTTP/1.1" 404 2092
+ERROR 2021-04-18 18:49:35,169 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+INFO 2021-04-18 18:51:47,106 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-04-18 18:53:26,033 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 18:53:27,617 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 18:53:27,836 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 18:53:28,340 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 18:53:28,567 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+INFO 2021-04-18 21:15:34,256 autoreload 578 Watching for file changes with StatReloader
