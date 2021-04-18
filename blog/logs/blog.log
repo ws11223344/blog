@@ -1,0 +1,18 @@
+INFO 2021-04-18 17:16:46,931 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:18:54,945 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2021-04-18 17:20:08,533 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\blog\urls.py changed, reloading.
+INFO 2021-04-18 17:20:12,878 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:20:54,055 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\blog\urls.py changed, reloading.
+INFO 2021-04-18 17:20:58,366 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:25:05,278 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:33:11,904 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:33:18,109 urls 25 info
+INFO 2021-04-18 17:33:18,119 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2021-04-18 17:33:22,225 urls 25 info
+INFO 2021-04-18 17:33:22,229 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2021-04-18 17:33:24,102 urls 25 info
+INFO 2021-04-18 17:33:24,106 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2021-04-18 17:33:59,944 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:34:31,000 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 17:36:35,269 urls 25 info
+INFO 2021-04-18 17:36:35,275 basehttp 154 "GET / HTTP/1.1" 200 4
