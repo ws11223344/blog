@@ -60,3 +60,59 @@ ERROR 2021-04-18 18:53:27,836 basehttp 154 "GET /register/ HTTP/1.1" 500 59
 ERROR 2021-04-18 18:53:28,340 basehttp 154 "GET /register/ HTTP/1.1" 500 59
 ERROR 2021-04-18 18:53:28,567 basehttp 154 "GET /register/ HTTP/1.1" 500 59
 INFO 2021-04-18 21:15:34,256 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-04-18 21:16:17,474 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+INFO 2021-04-18 22:23:25,584 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-04-18 22:23:39,935 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 22:23:40,696 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+WARNING 2021-04-18 22:23:42,973 log 222 Not Found: /
+WARNING 2021-04-18 22:23:42,974 basehttp 154 "GET / HTTP/1.1" 404 2092
+ERROR 2021-04-18 22:23:52,537 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 22:24:14,942 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+ERROR 2021-04-18 22:25:53,697 basehttp 154 "GET /register/ HTTP/1.1" 500 59
+INFO 2021-04-18 22:26:59,233 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2021-04-18 22:26:59,308 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2021-04-18 22:27:01,893 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 22:27:01,920 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 22:27:06,125 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 22:27:10,677 basehttp 154 "GET /register/ HTTP/1.1" 200 5208
+WARNING 2021-04-18 22:27:10,709 basehttp 154 "GET /static/bootstrap/css/bootstarp.min.css HTTP/1.1" 404 1717
+INFO 2021-04-18 22:27:10,762 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-04-18 22:27:10,762 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+WARNING 2021-04-18 22:27:10,870 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2021-04-18 22:27:16,760 basehttp 154 "GET /register/ HTTP/1.1" 200 5208
+WARNING 2021-04-18 22:27:16,777 basehttp 154 "GET /static/bootstrap/css/bootstarp.min.css HTTP/1.1" 404 1717
+INFO 2021-04-18 22:28:40,044 basehttp 154 "GET /register/ HTTP/1.1" 200 5208
+WARNING 2021-04-18 22:28:40,059 basehttp 154 "GET /static/bootstrap/css/bootstarp.min.css HTTP/1.1" 404 1717
+INFO 2021-04-18 23:02:44,035 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\users\models.py changed, reloading.
+INFO 2021-04-18 23:02:44,052 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\users\models.py changed, reloading.
+INFO 2021-04-18 23:02:46,735 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 23:02:46,736 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 23:29:27,726 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 23:42:24,081 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 23:49:46,820 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2021-04-18 23:49:46,829 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2021-04-18 23:49:48,932 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-18 23:49:48,932 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:07:44,682 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:26:38,048 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:27:10,670 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-04-19 00:27:27,808 log 222 Not Found: /imagecode/uuid=12
+WARNING 2021-04-19 00:27:27,809 basehttp 154 "GET /imagecode/uuid=12 HTTP/1.1" 404 2338
+WARNING 2021-04-19 00:27:55,688 log 222 Not Found: /imagecode/£¿uuid=123
+WARNING 2021-04-19 00:27:55,688 basehttp 154 "GET /imagecode/%EF%BC%9Fuuid=123 HTTP/1.1" 404 2356
+INFO 2021-04-19 00:28:41,945 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:30:49,325 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:31:23,412 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:31:44,840 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-04-19 00:31:58,031 log 222 Not Found: /
+WARNING 2021-04-19 00:31:58,032 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2021-04-19 00:36:07,890 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-04-19 00:36:29,133 log 222 Not Found: /
+WARNING 2021-04-19 00:36:29,134 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2021-04-19 00:41:34,920 autoreload 203 C:\Users\³ôÍôÍô\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2021-04-19 00:41:39,448 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:42:43,572 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:43:57,019 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:46:28,914 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-04-19 00:46:31,971 basehttp 154 "GET /imagecode/?uuid=123 HTTP/1.1" 200 3290
+INFO 2021-04-19 00:47:09,849 autoreload 578 Watching for file changes with StatReloader

@@ -56,7 +56,7 @@ ROOT_URLCONF = 'blog.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR)],
+        'DIRS': [os.path.join(BASE_DIR,'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -190,3 +190,8 @@ LOGGING = {
         },
     }
 }
+
+
+
+#替换系统的User python m来使用我们自己定义的模型
+AUTH_USER_MODEL='users.User'
